@@ -23,12 +23,6 @@ Building scalable AI systems
 
 ## Tech Stack
 
-## Programming Languages and Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,postgres,docker,fastapi,aws,tensorflow,git,linux" />
-</p>
-
 ### Languages
 `Python` `C++` `SQL` `Bash`
 
