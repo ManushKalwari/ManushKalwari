@@ -23,6 +23,7 @@ Building scalable AI systems
 
 ## Tech Stack
 
+
 ### Languages
 `Python` `C++` `SQL` `Bash`
 
@@ -39,18 +40,17 @@ Building scalable AI systems
 
 ## Flagship Projects
 
-### ScaleRAG — Multimodal Hierarchical RAG
+### Scalale RAG for Research
 - Built scalable retrieval pipeline across 1,000+ research papers  
-- Supports text, tables, and figures via multimodal parsing  
-- Implemented hierarchical retrieval (coarse → fine indexing)  
+- Supports text, tables, and figures via multimodal parsing   
 - Integrated evaluation harness for retrieval and generation metrics  
 
 https://github.com/ScaleRAG-team/ScaleRAG-Multimodal-Hierarchical
 
 ---
 
-### EEG → Text Brain-Computer Interface
-- Research project translating neural signals into text  
+### EEG -> Text Brain-Computer Interface
+- Research project translating neural signals into text via contrastive alignment  
 - Implemented neural alignment models over ZuCo dataset  
 - Explores multimodal representation learning  
 
