@@ -10,22 +10,24 @@ AI / ML Engineer • RAG Systems • Inference Optimization • Agentic AI
 
 Master's in Electrical Engineering (Data Analytics & Computation) — Columbia Engineering  
 Building scalable AI systems 
-Interested in inference optimization and agentic workflows  
-Photographer & design enthusiast — I care deeply about building systems that are both elegant and functional  
 
 ---
 
 ## What I Focus On
 
-- Large-scale Retrieval Augmented Generation
-- Multimodal document understanding
-- LLM inference optimization (vLLM, quantization, KV cache optimization)
-- Agentic AI workflows and evaluation
+- Inference optimization in LLMs
+- RAG, Agentic AI workflows and evaluation
 - Applied ML systems design
 
 ---
 
 ## Tech Stack
+
+## Programming Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,postgres,docker,fastapi,aws,tensorflow,git,linux" />
+</p>
 
 ### Languages
 `Python` `C++` `SQL` `Bash`
